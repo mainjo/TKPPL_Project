@@ -9,12 +9,12 @@ Alamat Trello &nbsp; :https://trello.com/b/mGsk5wMt/tkppl-project
 Judul Topik: Seorang Game Artis
 <br>
 Anggota 1
-=========
+<br>
 Nama:Hendra Imanuel<br>
 NIM:121111061<br>
 <br>
 
 Anggota 2
-=========
+<br>
 Nama:Julio Parbuttian<br>
 NIM:101112282<br>
