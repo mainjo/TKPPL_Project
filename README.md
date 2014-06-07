@@ -1,20 +1,17 @@
-Daftar Alamat Github Dan Judul
-=============================
-Nama kelompok &nbsp; : Nol Satu
-<br>
-Alamat Github &nbsp; : https://github.com/number800/TKPPL_Project
-<br>
-Alamat Trello &nbsp; :https://trello.com/b/mGsk5wMt/tkppl-project
-<br>
-Judul Topik: Seorang Game Artis
-<br>
-Anggota 1
-<br>
-Nama:Hendra Imanuel<br>
-NIM:121111061<br>
-<br>
+# Hello World
+> A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
-Anggota 2
-<br>
-Nama:Julio Parbuttian<br>
-NIM:101112282<br>
+## View slides locally
+
+First, ensure you have the following installed:
+
+1. [Node.js](http://nodejs.org)
+2. [Bower](http://bower.io): `$ npm install -g bower`
+3. [Grunt](http://gruntjs.com): `$ npm install -g grunt-cli`
+
+Then, install dependencies and run the preview server:
+
+```bash
+$ npm install && bower install
+$ grunt server
+```
