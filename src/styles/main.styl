@@ -2,15 +2,17 @@
 
 // variables!
 
-slide_width = 640px
+slide_width = 740px
 slide_height = 480px
-slide_background = #eaeaea
+slide_background = #FFFFFF
+
+
 
 slide_transition_length = .6s
 slide_transition_easing = ease
-slide_transition_rotate_y = 90deg
+slide_transition_rotate_y = 25deg
 // Safari bugs out on 3d transform-origins, so we have to fake it
-slide_transition_nudge_x = -100px
+slide_transition_nudge_x = -200px
 
 bullet_transition_length = .3s
 bullet_transition_easing = ease
@@ -161,6 +163,7 @@ body
   font-family: helvetica, arial, sans-serif
   font-size: 18px
   color: #404040
+  background-color:#ff5;
 
 h1
   font-size: 72px
@@ -188,10 +191,14 @@ ul
 
 li
   margin-bottom: 12px
+  text-align:left
 
 p
-  margin: 0 100px 12px
+  margin: 0px 0px 0px 0px
   line-height: 22px
+  text-align: justify
+  text-indent: 32pt
+  
 
 a
   color: #0089f3
